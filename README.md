@@ -1,5 +1,5 @@
 # Online-Shopping-System
-![image]()
+![image](https://github.com/xmeng18/Online-Shopping-System/blob/master/demo.gif)
 Built an online store using Spring MVC and Web Flow with functionalities including item listing, searching, and ordering. 
 
 Simplified and streamlined database operations with Hibernate. 
